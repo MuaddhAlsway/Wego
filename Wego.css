@@ -1,0 +1,463 @@
+*{
+    cursor: pointer;
+}
+.logo{
+    width: 100px;
+    position: absolute;
+    left: 45px;
+    top: 25px;
+}
+.div1{
+    background-image: url(img/sky-1373167_1280.jpg);
+    height: 450px;
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+}
+.img1{
+    width: 20px;
+}
+.select1{
+    position: absolute;
+left: 800px;
+top: 35px;
+border-top-left-radius: 15px;
+border-bottom-left-radius: 15px;
+border: none;
+width: 80px;
+height: 25px;
+background: rgb(228, 202, 85);
+}
+.select2{
+    position: absolute;
+left: 880px;
+top: 35px;
+border: none;
+
+width: 40px;
+height: 25px;
+background: rgb(228, 202, 85);
+}
+.select3{
+    position: absolute;
+left: 920px;
+top: 35px;
+border-top-right-radius: 15px;
+border-bottom-right-radius: 15px;
+width: 40px;
+height: 25px;
+background: rgb(228, 202, 85);
+border: none;
+
+}
+.input1{
+    position: absolute;
+    left: 980px;
+    top:35px;
+    border-radius: 25px;
+    background: transparent;
+    border: none;
+    background: rgb(228, 202, 85);
+    width: 60px;
+height: 25px;
+}
+.input2{
+    position: absolute;
+    left:  1050px;
+    top:35px;
+    border-radius: 25px;
+    background: transparent;
+    border: none;
+    background: rgb(61, 251, 18);
+    width: 100px;
+height: 25px;
+}
+.h5{
+    position: absolute;
+    left: 250px;
+    top: 200px;
+    color: white;
+    font-size: 50px;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal
+}
+.legend1{
+    border: none  ;
+    width: 60px;
+    background: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background:#ffb703;
+    height: 80px;
+    width: 100px;
+    
+}
+.legend2{
+    border: none  ;
+    width: 60px;
+    background: white;
+    
+    border-top-right-radius: 5px;
+    background:#ffb703;
+    height: 80px;
+    width: 100px;
+    position: relative;
+    left:100px;
+    top: -85px;
+    
+}
+.legend3{
+    border: none  ;
+    background: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background:#ffb703;
+    height: 80px;
+    width: 150px;
+    position: relative;
+    left:210px;
+    top: -165px;
+    
+}
+.h9{
+    font-size: 15px;
+    display: inline-block;
+    position: relative;
+    top: -25px;
+    left: 25px;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal
+}
+.h10{
+    font-size: 15px;
+    display: inline-block;
+    position: relative;
+    top: -25px;
+    left: 15px;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal
+}
+.bxs-plane-alt{
+    position: relative;
+    top: -25px;
+    left: 20px;
+}
+.bxs-city{
+    position: relative;
+    top: -25px;
+    left: 20px;
+}
+.bxs-briefcase{
+    position: relative;
+    top: -25px;
+    left: 20px;
+}
+.f1{
+    width: 850px;
+height: 300px;
+position: absolute;
+left: 150px;
+top: 350px;
+background: #ffb703;
+border-radius: 10px;
+border: none;
+}
+body{
+    background: linear-gradient(to right, #ffb703, #bc6c25);
+}
+.button1{
+    position: absolute;
+    top: -5px;
+    left: 10px;
+    display: inline-block;
+    border-radius:30px;
+    border:none;
+    background: #e9d8a6;
+    width: 80px;
+    height: 30px;
+}
+
+.button2{
+    position: absolute;
+    top: -5px;
+    left: 95px;
+    display: inline-block;
+    border-radius:30px;
+    border:none;
+    background: #e9d8a6;
+    width: 90px;
+    height: 30px;
+}
+.button3{
+    position: absolute;
+    top: -5px;
+    left: 190px;
+    display: inline-block;
+    border-radius:30px;
+    border:none;
+    background: #e9d8a6;
+    width: 90px;
+    height: 30px;
+}
+.button4{
+    position: absolute;
+    top: -5px;
+    left: 750px;
+    display: inline-block;
+    border-radius:5px;
+    border:solid #e9d8a6;
+    background: transparent;
+    width: 90px;
+    height: 30px;
+}
+.button4:hover{
+    background: #e9d8a6;
+}
+.button5{
+    position: absolute;
+    top: 180px;
+    left: 750px;
+    display: inline-block;
+    border-radius:30px;
+    border:solid #e9d8a6;
+    background: #e9d8a6;
+    width: 90px;
+    height: 30px;
+}
+.input4{
+    position: absolute;
+    top: 45px;
+    left: 15px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.input12{
+    position: absolute;
+    top: 125px;
+    left: 15px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.bx-left-arrow-circle{
+    position: absolute;
+    top: 55px;
+    left: 185px;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+}
+.bx-right-arrow-circle{
+    position: absolute;
+    top: 55px;
+    left: 195px;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+}
+.input5{
+    position: absolute;
+    top: 45px;
+    left: 215px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.input13{
+    position: absolute;
+    top: 125px;
+    left: 215px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.input6{
+    position: absolute;
+    top: 45px;
+    left: 400px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.input14{
+    position: absolute;
+    top: 125px;
+    left: 400px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.input7{
+    position: absolute;
+    top: 45px;
+    left: 550px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.input1 {
+    position: absolute;
+    top: 35px;
+    left: 980px;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+}
+.input11{
+    position: absolute;
+    top: 105px;
+    left: 550px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.input9{
+    position: absolute;
+    top: 85px;
+    left: 215px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.input10{
+    position: absolute;
+    top: 85px;
+    left: 400px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.input8{
+    position: absolute;
+    top: 85px;
+    left: 15px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.input11{
+    position: absolute;
+    top: 85px;
+    left: 550px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.input15{
+    position: absolute;
+    top: 125px;
+    left: 550px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.checkbox{
+    position: absolute;
+    bottom: 15px;
+}
+.h11{
+    position: absolute;
+    display: inline-block;
+    bottom: -5px;
+    left: 35px;
+    font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.select4{
+    position: absolute;
+left: 250px;
+top: 200px;
+
+width: 80px;
+height: 25px;
+background: transparent;
+border: none;
+
+}
+.select4:hover{
+background: #e9d8a6;
+border-radius: 5px;
+}
+.select5{
+    position: absolute;
+left: 350px;
+top: 200px;
+
+width: 150px;
+height: 25px;
+background: transparent;
+border: none;
+
+}
+.select5:hover{
+background: #e9d8a6;
+border-radius: 5px;
+}
+.img1{
+    position: absolute;
+    top:700px;
+    left: 100px;
+    width: 100px;
+}
+.img2{
+    position: absolute;
+    top:700px;
+    left: 440px;
+    width: 100px;
+}
+.img3{
+    position: absolute;
+    top:700px;
+    left: 750px;
+    width: 100px;
+}
+.img4{
+    position: absolute;
+    top:710px;
+    left: 1050px;
+    width: 80px;
+}
+.h12{
+    position: absolute;
+    top:800px;
+    left: 50px;
+    color: white;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+}
+.h13{
+    position: absolute;
+    top:800px;
+    left: 400px;
+    color: white;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+}
+.h14{
+    position: absolute;
+    top:800px;
+    left: 700px;
+    color: white;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+}
+.h15{
+    position: absolute;
+    top:800px;
+    left: 1020px;
+    color: white;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+}
