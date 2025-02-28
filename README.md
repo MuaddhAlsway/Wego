@@ -53,7 +53,7 @@ If you'd like to contribute, feel free to fork the repository and submit a pull 
 For learning purposes only
 
 
- <a href="https://www.linkedin.com/posts/muaddh-alsway_webdevelopment-html-css-activity-7246321784977825793-k2K1?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8"  target="_blank" >
+ <a href="https://www.linkedin.com/posts/muaddh-alsway_webdevelopment-html-css-activity-7246321784977825793-k2K1?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq88"  target="_blank" >
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 
